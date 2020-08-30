@@ -10,4 +10,8 @@ This Repository contains our work for EYRC'19-20 under the theme "Supply Bot". T
   .Sudhakar T
   all pursuing B.Tech. Electronics and Communication Engineering at SASTRA Deemed To Be University at the time of this competition. We were all in our 3rd year while participating in this competition. We were one of the Top 30 teams in India under the given Theme.
   
-  The names of all sub-folders in "Our_Solution_for_Tasks" folder starts with "SB#2122", in which SB stands for Supply Bot and 2122 is our team ID for the Competition.
+The names of all sub-folders in "Our_Solution_for_Tasks" folder starts with "SB#2122", in which SB stands for Supply Bot and 2122 is our team ID for the Competition.
+  
+Youtube Link for our submissions: https://www.youtube.com/playlist?list=PLD0G3gGZkS2iLpSIUOYEWHtIK6-iw5w1j
+  
+Drive Video Link for our Final Submission: https://drive.google.com/file/d/19UR7Uxv-SRas1EEjCvniRmBnfTt5hn6y/view?usp=sharing
